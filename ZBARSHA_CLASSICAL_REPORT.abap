@@ -146,12 +146,3 @@ FORM display_data .
   ENDIF.
 
 ENDFORM.
-
-
-
-
-OUTPUT --
- 
- 
- 
-  
