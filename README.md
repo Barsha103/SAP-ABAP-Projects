@@ -39,6 +39,6 @@ Developed a classical report to display material stock details.
 <img src="Material_Stock_Output_4.png" width="700">
   
 ## About Me
-I am a SAP ABAP on HANA Developer with 2+ years of experience in SAP S/4HANA development, Brownfield Conversion, ATC Remediation, RICEF Objects, CDS Views, OData, and RAP.
+I am an SAP ABAP on HANA Developer with 2+ years of experience in SAP S/4HANA development, Brownfield Conversion, ATC Remediation, RICEF Objects, CDS Views, OData, and RAP.
 ## Author
 **Barsha Behera**
