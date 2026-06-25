@@ -32,11 +32,24 @@ Developed a classical report to display material stock details.
 - Internal Tables
 - Report Output
 
+## Project Requirement
+<p align="center">
+<img src="Material_Stock_Requirement.png" width="700">
+</p>
+
 ## Output Screenshots
+<p align="center">
 <img src="Material_Stock_Output_1.png" width="700">
+</p>
+<p align="center">
 <img src="Material_Stock_Output_2.png" width="700">
+</p>
+<p align="center">
 <img src="Material_Stock_Output_3.png" width="700">
+</p>
+<p align="center">
 <img src="Material_Stock_Output_4.png" width="700">
+</p>
   
 ## About Me
 I am an SAP ABAP on HANA Developer with 2+ years of experience in SAP S/4HANA development, Brownfield Conversion, ATC Remediation, RICEF Objects, CDS Views, OData, and RAP.
